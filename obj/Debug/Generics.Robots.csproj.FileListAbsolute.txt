@@ -1,0 +1,10 @@
+C:\Users\Розовый Гайсен\Desktop\Злые птицы\bin\Debug\Generics.Robots.exe.config
+C:\Users\Розовый Гайсен\Desktop\Злые птицы\bin\Debug\Generics.Robots.exe
+C:\Users\Розовый Гайсен\Desktop\Злые птицы\bin\Debug\Generics.Robots.pdb
+C:\Users\Розовый Гайсен\Desktop\Злые птицы\bin\Debug\nunit.framework.dll
+C:\Users\Розовый Гайсен\Desktop\Злые птицы\bin\Debug\nunitlite.dll
+C:\Users\Розовый Гайсен\Desktop\Злые птицы\obj\Debug\Generics.Robots.csprojAssemblyReference.cache
+C:\Users\Розовый Гайсен\Desktop\Злые птицы\obj\Debug\Generics.Robots.csproj.CoreCompileInputs.cache
+C:\Users\Розовый Гайсен\Desktop\Злые птицы\obj\Debug\Generics.Robots.csproj.CopyComplete
+C:\Users\Розовый Гайсен\Desktop\Злые птицы\obj\Debug\Generics.Robots.exe
+C:\Users\Розовый Гайсен\Desktop\Злые птицы\obj\Debug\Generics.Robots.pdb
